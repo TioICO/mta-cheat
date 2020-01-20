@@ -1,0 +1,1 @@
+# THIS PROJECT HAS BEEN MADE FOR LEARNING PURPOSES, I DO NOT USE IT IN ONLINE MODES AND I DO NOT PROVIDE IT TO SOMEONE TO USE IN ONLINE MODES## mta-cheat an old(2018) untidy and detected mta cheat[![a old video from my friend](https://i.ibb.co/hB7T3Xg/6ff073a7-9c74-4bb5-bb10-c7ed5689fb95.png)](https://www.youtube.com/watch?v=Bj-1_u3oBzk&feature=youtu.be)

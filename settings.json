@@ -1,0 +1,56 @@
+{
+    "AimAssist": {
+        "AimMod": 1,
+        "DontAimAtZombies": true,
+        "Enabled": false,
+        "FOV": 863.095031738281,
+        "FriendKey": 4,
+        "Key": 2,
+        "LatencyAdjusting": 0.0160000007599592,
+        "Smooth": 634.921020507813,
+        "VehicleLatencyAdjusting": 0.00300000002607703
+    },
+    "WH": {
+        "Cars": true,
+        "Enabled": true,
+        "Object": false,
+        "ObjectIDs": "0,1,2,3",
+        "ObjectIDsBool": false,
+        "ObjectList": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "PedColor": [
+            [
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "PedColors": true,
+        "Peds": true,
+        "ZombieIDs": "59,61,72",
+        "Zombies": true,
+        "everyWHKey": 20,
+        "showCorpses": false,
+        "showZombies": false
+    }
+}
